@@ -29,4 +29,4 @@ jobs:
 
       - name: Upload file to S3
         run: |
-          aws s3 cp <path-to-file> s3://<donis3>/
+          aws s3 cp </Users/doneshreddykalluri/desktop/donis3> s3://<donis3>/
